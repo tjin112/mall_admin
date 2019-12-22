@@ -1,0 +1,8 @@
+{
+  "name": "mall_admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tjin112/mall_admin.git",
+  "author": "taimin <940986798@qq.com>",
+  "license": "MIT"
+}
